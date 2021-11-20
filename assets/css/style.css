@@ -86,11 +86,13 @@ section div img {
     margin-right: 25px;
 }
 
+section div .float-left {
+    float: left; 
+    margin-left: 25px;
+}
 
 
-
-
-.content div .float-right {
+section div .float-right {
     float: right;
     margin-left: 25px;
 }
