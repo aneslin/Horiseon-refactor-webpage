@@ -59,19 +59,19 @@ header h1 .seo {
     background-position: center;
 }
 
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content h2 {
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /*removed reduendant classes for content*/
-.content div {
+section div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -80,7 +80,7 @@ header h1 .seo {
     color: #ffffff;
 }
 
-.content div img {
+section div img {
     max-height: 200px;
     float: left;
     margin-right: 25px;
