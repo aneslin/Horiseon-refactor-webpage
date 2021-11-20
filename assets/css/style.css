@@ -59,6 +59,16 @@ p {
     background-position: center;
 }
 
+
+
+
+
+
+
+
+
+
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -134,7 +144,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.business-features {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,7 +171,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.business-features img {
     max-height: 200px;
 }
 
@@ -173,7 +183,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.business-features h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
