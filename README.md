@@ -1,7 +1,7 @@
 # Horiseon Website
 
 ## Purpose
-Horiseon is a search engine optimization   (SEO), online reputation management, and social media marketing firm
+Horiseon is a search engine optimization (SEO), online reputation management, and social media marketing firm
 
 To optimize their own website for search engines and accessibility, best practices have been followed to produce a search engine and screen reader-friendly web page
 
@@ -18,3 +18,4 @@ To optimize their own website for search engines and accessibility, best practic
 
 ![Preview Image 1](./assets/previews/Horiseon-samplepage1.JPG)
 ![Preview Image 2](./assets/previews/Horiseon-samplepage2.JPG)
+ 
