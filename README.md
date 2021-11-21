@@ -16,5 +16,5 @@ To optimize their own website for search engines and accessibility, best practic
 
 ## Preview Images
 
-![Preview Image 1](.\assets\previews\Horiseon-samplepage1.JPG)
-![Preview Image 2](.\assets\previews\Horiseon-samplepage2.JPG)
+![Preview Image 1](./assets/previews/Horiseon-samplepage1.JPG)
+![Preview Image 2](./assets/previews/Horiseon-samplepage2.JPG)
