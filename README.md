@@ -12,7 +12,9 @@ To optimize their own website for search engines and accessibility, best practic
 * Alt text for all images
 * A lean and flexible style sheet ready to style more content as the webpage changes
 
-
+## Tools
+* HTML
+* CSS
 
 ## Preview Images
 
